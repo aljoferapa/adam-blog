@@ -8,4 +8,4 @@ tags: [Curso Git]
 author: Alberto Fernandez # Add name author (optional)
 ---
 
-![Tiger]({{site.baseurl}}/assets/img/tiger.jpg.jpg)
+![Tiger]({{site.baseurl}}/assets/img/tiger.jpg)
